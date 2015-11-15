@@ -1,0 +1,23 @@
+# MakeHuman Material definition
+
+name material.006Material
+
+// Color shading attributes
+diffuseColor  0.6027 0.6027 0.6027
+specularColor  0.1475 0.1475 0.1475
+shininess 0.007843
+opacity 1
+
+// Textures and properties
+diffuseTexture Black_trans2.png
+
+// Shader programme
+shader data/shaders/glsl/phong
+
+// Configure built-in shader defines
+shaderConfig diffuse true
+shaderConfig bump false
+shaderConfig normal  false
+shaderConfig displacement  false
+shaderConfig spec  false
+shaderConfig vertexColors false

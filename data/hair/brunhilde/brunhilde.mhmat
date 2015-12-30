@@ -1,0 +1,23 @@
+# MakeHuman Material definition
+
+name brunhildeMaterial
+
+// Color shading attributes
+diffuseColor  0.591 0.4543 0.3358
+specularColor  2 2 2
+shininess 0.7765
+opacity 1
+
+// Textures and properties
+diffuseTexture brunhilde.png
+
+// Shader programme
+shader data/shaders/glsl/phong
+
+// Configure built-in shader defines
+shaderConfig diffuse true
+shaderConfig bump false
+shaderConfig normal  false
+shaderConfig displacement  false
+shaderConfig spec  false
+shaderConfig vertexColors false

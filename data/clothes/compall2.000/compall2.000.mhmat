@@ -1,0 +1,22 @@
+# MakeHuman Material definition
+
+name fabric_2_front_131886.001Material
+
+// Color shading attributes
+diffuseColor  0.7489 0.7489 0.7489
+specularColor  0 0 0
+shininess 0.01176
+opacity 0.3
+
+// Textures and properties
+
+// Shader programme
+shader data/shaders/glsl/phong
+
+// Configure built-in shader defines
+shaderConfig diffuse false
+shaderConfig bump false
+shaderConfig normal  false
+shaderConfig displacement  false
+shaderConfig spec  false
+shaderConfig vertexColors false

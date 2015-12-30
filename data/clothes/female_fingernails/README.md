@@ -1,7 +1,7 @@
 # Female Fingernails
 
 * Author: wolgade
-* Category: Unsorted/other
+* Category: Nails
 * Compatibility: 1.1.x
 * License: CC0
 

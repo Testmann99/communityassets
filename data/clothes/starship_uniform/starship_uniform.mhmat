@@ -1,15 +1,16 @@
 # MakeHuman Material definition
 
-name chocolateMaterial
+name material.whitebootleatherMaterial
 
 // Color shading attributes
-diffuseColor  0.2784 0.2425 0.2425
-specularColor  0.5 0.5 0.5
-shininess 0.1882
+diffuseColor  0.8 0.8 0.8
+specularColor  0.005222 0.005222 0.005222
+shininess 0.05882
 opacity 1
 
 // Textures and properties
-diffuseTexture southernbelleringlets.png
+diffuseTexture uniformtex.png
+normalmapTexture uniformbumpmap.png
 
 // Shader programme
 shader data/shaders/glsl/phong

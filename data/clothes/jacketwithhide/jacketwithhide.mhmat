@@ -1,22 +1,23 @@
 # MakeHuman Material definition
 
-name chocolateMaterial
+name materialMaterial
 
 // Color shading attributes
-diffuseColor  0.2784 0.2425 0.2425
-specularColor  0.5 0.5 0.5
-shininess 0.1882
-opacity 1
+diffuseColor  0.64 0.64 0.64
+specularColor  0.03514 0.05726 0.09174
+shininess 0.9059
+opacity 0
 
 // Textures and properties
-diffuseTexture southernbelleringlets.png
+diffuseTexture Fur0022_1_Mbrigther.png
+bumpTexture Fur0022_1_Mbrigther.png
 
 // Shader programme
 shader data/shaders/glsl/phong
 
 // Configure built-in shader defines
 shaderConfig diffuse true
-shaderConfig bump false
+shaderConfig bump true
 shaderConfig normal  false
 shaderConfig displacement  false
 shaderConfig spec  false

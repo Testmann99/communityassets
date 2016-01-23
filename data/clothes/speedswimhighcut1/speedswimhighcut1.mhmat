@@ -1,0 +1,23 @@
+# MakeHuman Material definition
+
+name speedswimhighcut1Material
+
+// Color shading attributes
+diffuseColor  0.2545 0.4988 0.5369
+specularColor  0.4261 0.249 0.4217
+shininess 0.1882
+opacity 1
+
+// Textures and properties
+diffuseTexture speedswimhighcut1.jpg
+
+// Shader programme
+shader data/shaders/glsl/phong
+
+// Configure built-in shader defines
+shaderConfig diffuse true
+shaderConfig bump false
+shaderConfig normal  false
+shaderConfig displacement  false
+shaderConfig spec  false
+shaderConfig vertexColors false

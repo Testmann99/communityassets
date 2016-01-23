@@ -9,7 +9,7 @@ shininess 0.1961
 opacity 1
 
 // Textures and properties
-diffuseTexture wrestlingsuit2.png
+diffuseTexture difftex+bg2.png
 
 // Shader programme
 shader data/shaders/glsl/phong

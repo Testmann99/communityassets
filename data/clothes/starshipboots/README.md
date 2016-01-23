@@ -7,3 +7,5 @@
 
 Boots to go with starship uniform, originating from the same thread http://www.makehumancommunity.org/forum/viewtopic.php?f=15&t=13010 Subsurface modifier recommended when importing.
 
+![Example](preview.png)
+

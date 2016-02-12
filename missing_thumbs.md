@@ -2,26 +2,27 @@
 
 These assets are missing thumbnail, which might make it difficult to find them in lists
 
-## susuexp
+## badwolf
 
-* pantsforcomp
-* comptop
-* compall2.000
-* string
+* tutu_and_basque
+* lowerbasque
 
 ## abumeqbel
 
 * 3eqal
 * hair_short
 
-## badwolf
-
-* tutu_and_basque
-* lowerbasque
-
 ## o4saken
 
 * assassins
 * Supermanshirt
 * steampunk.001
-* elf
+* elfnew
+* elfpants
+
+## susuexp
+
+* pantsforcomp
+* comptop
+* compall2.000
+* string

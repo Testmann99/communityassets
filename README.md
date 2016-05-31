@@ -10,6 +10,12 @@ Support, if needed, should be asked of the individual asset authors rather than 
 
 ## Installation
 
-Simply copy everything under "data" to "data" in your makehuman home. See http://www.makehumancommunity.org/wiki/FAQ:Where_are_my_MakeHuman_files_found_(where_is_my_HOME_directory)%3F
+Download and install git-lfs from : https://github.com/github/git-lfs/releases
+
+Run: git lfs install
+
+Checkout the repository
+
+Then copy everything under "data" to "data" in your makehuman home. See http://www.makehumancommunity.org/wiki/FAQ:Where_are_my_MakeHuman_files_found_(where_is_my_HOME_directory)%3F
 
 

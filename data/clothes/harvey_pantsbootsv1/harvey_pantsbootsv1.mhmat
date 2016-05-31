@@ -1,0 +1,21 @@
+# MakeHuman Material definition
+
+name material.001Material
+
+// Color shading attributes
+diffuseColor  0.64 0.64 0.64
+specularColor  0.5 0.5 0.5
+shininess 0.1961
+opacity 1
+
+// Textures and properties
+diffuseTexture pants_camo.png
+bumpTexture pants_camo_spec.png
+
+
+shader data/shaders/glsl/litsphere
+
+shaderParam litsphereTexture data/litspheres/lit_matte.png
+
+shaderConfig spec True
+

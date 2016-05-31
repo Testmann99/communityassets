@@ -1,0 +1,23 @@
+# MakeHuman Material definition
+
+name rucksackmaterialMaterial
+
+// Color shading attributes
+diffuseColor  0.00521 0.005999 0.02015
+specularColor  0 0 0
+shininess 0.1961
+opacity 1
+
+// Textures and properties
+diffuseTexture RucksackUV.png
+
+// Shader programme
+shader data/shaders/glsl/phong
+
+// Configure built-in shader defines
+shaderConfig diffuse true
+shaderConfig bump false
+shaderConfig normal  false
+shaderConfig displacement  false
+shaderConfig spec  false
+shaderConfig vertexColors false

@@ -2,11 +2,6 @@
 
 These assets are missing thumbnail, which might make it difficult to find them in lists
 
-## badwolf
-
-* tutu_and_basque
-* lowerbasque
-
 ## abumeqbel
 
 * 3eqal
@@ -19,6 +14,11 @@ These assets are missing thumbnail, which might make it difficult to find them i
 * steampunk.001
 * elfnew
 * elfpants
+
+## pixel_pretty
+
+* fingernails_elegant2
+* toenail2
 
 ## susuexp
 

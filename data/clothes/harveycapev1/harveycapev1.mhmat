@@ -1,0 +1,31 @@
+# MakeHuman Material definition
+
+name material.001Material
+
+// Color shading attributes
+diffuseColor  0.64 0.64 0.64
+specularColor  0.5 0.5 0.5
+shininess 0.1961
+opacity 1
+
+// Textures and properties
+diffuseTexture cape2.png
+bumpTexture capespec.png
+aomapTexture capeao.png
+bumpmapIntensity 1.0
+aomapIntensity 1.0
+
+shader data/shaders/glsl/litsphere
+shaderParam litsphereTexture data/litspheres/lit_matte.png
+
+castShadows True
+receiveShadows True
+
+shaderConfig ambientOcclusion True
+shaderConfig normal False
+shaderConfig bump False
+shaderConfig displacement False
+shaderConfig vertexColors True
+shaderConfig spec True
+shaderConfig transparency False
+shaderConfig diffuse True

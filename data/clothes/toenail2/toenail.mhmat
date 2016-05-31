@@ -1,0 +1,37 @@
+# Material definition for ToeNailMaterial
+
+name ToeNailMaterial
+description Toenail material
+ambientColor 1.0 1.0 1.0
+diffuseColor 1.0 1.0 1.0
+specularColor 0.9211 0.9211 0.9211
+shininess 1.0
+emissiveColor 0.0 0.0 0.0
+opacity 1.0
+translucency 0.0
+
+shadeless False
+wireframe False
+transparent False
+alphaToCoverage True
+backfaceCull True
+depthless False
+
+castShadows True
+
+receiveShadows True
+
+diffuseTexture toenail_natural_diff.png
+normalmapTexture //clothes/fingernails_elegant/toenail_natural_Normal.png
+normalmapIntensity 1.0
+
+shader shaders/glsl/phong
+
+shaderConfig ambientOcclusion True
+shaderConfig normal False
+shaderConfig bump False
+shaderConfig displacement False
+shaderConfig vertexColors False
+shaderConfig spec False
+shaderConfig transparency True
+shaderConfig diffuse True

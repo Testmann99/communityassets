@@ -7,6 +7,18 @@ These assets are missing thumbnail, which might make it difficult to find them i
 * 3eqal
 * hair_short
 
+## susuexp
+
+* pantsforcomp
+* comptop
+* compall2.000
+* string
+
+## pixel_pretty
+
+* fingernails_elegant2
+* toenail2
+
 ## o4saken
 
 * assassins
@@ -14,15 +26,3 @@ These assets are missing thumbnail, which might make it difficult to find them i
 * steampunk.001
 * elfnew
 * elfpants
-
-## pixel_pretty
-
-* fingernails_elegant2
-* toenail2
-
-## susuexp
-
-* pantsforcomp
-* comptop
-* compall2.000
-* string

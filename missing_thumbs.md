@@ -2,6 +2,11 @@
 
 These assets are missing thumbnail, which might make it difficult to find them in lists
 
+## pixel_pretty
+
+* fingernails_elegant2
+* toenail2
+
 ## abumeqbel
 
 * 3eqal
@@ -13,11 +18,6 @@ These assets are missing thumbnail, which might make it difficult to find them i
 * comptop
 * compall2.000
 * string
-
-## pixel_pretty
-
-* fingernails_elegant2
-* toenail2
 
 ## o4saken
 

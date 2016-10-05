@@ -2,16 +2,15 @@
 
 These are broken file references in mhclo and mhmat files
 
-## Marco_105
-
-* In collier_02 mhmat, diffuseTexture is set to clothes/Textures_common/CollierCou.png, but this file does not exist.
-* In collier_02 mhmat, litsphereTexture is set to litspheres/lit_leather.png, but this file does not exist.
-
 ## frankyaye
 
 * In bra_string_pink mhclo, material is set to bra_string_pink.mhmat, but this file does not exist.
 * In panty_string mhclo, material is set to panty_string.mhmat, but this file does not exist.
 * In tights mhclo, material is set to tights.mhmat, but this file does not exist.
+
+## o4saken
+
+* In assassins mhmat, diffuseTexture is set to JACKETDIFUSE.png normalmapTexture JACKETNORM.png aomapTexture JACKETAO.png, but this file does not exist.
 
 ## pixel_pretty
 
@@ -25,19 +24,6 @@ These are broken file references in mhclo and mhmat files
 * In Viking_dress mhmat, aomapTexture is set to ao.png, but this file does not exist.
 * In egtved_dress mhmat, aomapTexture is set to combined_ao.png, but this file does not exist.
 * In egtved_dress mhmat, litsphereTexture is set to litspheres/lit_matte.png, but this file does not exist.
-
-## o4saken
-
-* In assassins mhmat, diffuseTexture is set to JACKETDIFUSE.png normalmapTexture JACKETNORM.png aomapTexture JACKETAO.png, but this file does not exist.
-
-## callharvey3d
-
-* In harvey_pantsbootsv1 mhmat, bumpTexture is set to pants_camo_spec.png, but this file does not exist.
-* In harvey_pantsbootsv1 mhmat, litsphereTexture is set to data/litspheres/lit_matte.png, but this file does not exist.
-* In harvey_vestv1 mhmat, litsphereTexture is set to data/litspheres/lit_matte.png, but this file does not exist.
-* In harvey_luciferscapev1 mhmat, diffuseTexture is set to luciferscape.png, but this file does not exist.
-* In harvey_luciferscapev1 mhmat, litsphereTexture is set to data/litspheres/lit_matte.png, but this file does not exist.
-* In harvey_lucifershirtv1 mhmat, litsphereTexture is set to data/litspheres/lit_matte.png, but this file does not exist.
 
 ## sonntag78
 
@@ -70,3 +56,21 @@ These are broken file references in mhclo and mhmat files
 * In sunkingcourtesan1 mhmat, diffuseTexture is set to sunkingcourtesan1.png, but this file does not exist.
 * In atlantean1 mhclo, obj_path is set to atlantean1.001.obj, but this file does not exist.
 * In atlantean1 mhclo, material is set to atlantean1.001.mhmat, but this file does not exist.
+
+## Marco_105
+
+* In collier_02 mhmat, diffuseTexture is set to clothes/Textures_common/CollierCou.png, but this file does not exist.
+* In collier_02 mhmat, litsphereTexture is set to litspheres/lit_leather.png, but this file does not exist.
+* In stocking01 mhmat, litsphereTexture is set to litspheres/lit_refl_sharp_aniso_hard.png, but this file does not exist.
+* In stocking02 mhmat, litsphereTexture is set to litspheres/lit_leather.png, but this file does not exist.
+* In armsleeve01 mhmat, litsphereTexture is set to litspheres/lit_refl_sharp_aniso_hard.png, but this file does not exist.
+* In armsleeve02 mhmat, litsphereTexture is set to litspheres/lit_leather.png, but this file does not exist.
+
+## callharvey3d
+
+* In harvey_pantsbootsv1 mhmat, bumpTexture is set to pants_camo_spec.png, but this file does not exist.
+* In harvey_pantsbootsv1 mhmat, litsphereTexture is set to data/litspheres/lit_matte.png, but this file does not exist.
+* In harvey_vestv1 mhmat, litsphereTexture is set to data/litspheres/lit_matte.png, but this file does not exist.
+* In harvey_luciferscapev1 mhmat, diffuseTexture is set to luciferscape.png, but this file does not exist.
+* In harvey_luciferscapev1 mhmat, litsphereTexture is set to data/litspheres/lit_matte.png, but this file does not exist.
+* In harvey_lucifershirtv1 mhmat, litsphereTexture is set to data/litspheres/lit_matte.png, but this file does not exist.
